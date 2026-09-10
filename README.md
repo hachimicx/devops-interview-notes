@@ -11,3 +11,14 @@
 - 网络: TCP 三次握手、TIME_WAIT、load average
 - Docker vs 虚拟机、镜像分层
 - K8s、CI/CD、排障思路
+
+## 题单-面试小灶
+扒自 mianshixiaozao.com 的刷题清单(仅题目,不含答案),按分类合并:
+- [Linux系统运维](题单-面试小灶/Linux系统运维.md) — Linux 100题/Shell/网络/网站
+- [网站架构运维](题单-面试小灶/网站架构运维.md) — Nginx/消息中间件/微服务
+- [容器与云原生运维](题单-面试小灶/容器与云原生运维.md) — Docker/K8s 101题/云原生/边缘计算
+- [DevOps自动化运维工具](题单-面试小灶/DevOps自动化运维工具.md) — Jenkins/Ansible/ELK/Prometheus/Zabbix/Git
+- [DevOps运维开发](题单-面试小灶/DevOps运维开发.md) — Python/Golang/Vue
+- [数据库运维](题单-面试小灶/数据库运维.md) — MySQL/Redis/PostgreSQL
+- [分布式存储运维](题单-面试小灶/分布式存储运维.md) — Ceph/MinIO/Longhorn
+- [安全运维](题单-面试小灶/安全运维.md) / [大数据运维](题单-面试小灶/大数据运维.md) / [AIOps智能运维](题单-面试小灶/AIOps智能运维.md) / [运维管理](题单-面试小灶/运维管理.md) / [HR](题单-面试小灶/HR.md)
