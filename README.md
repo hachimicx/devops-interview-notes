@@ -12,6 +12,12 @@
 - Docker vs 虚拟机、镜像分层
 - K8s、CI/CD、排障思路
 
+## 答案-面试小灶
+
+面试参考答案（要点 + 一句话答），逐题对应题单：
+
+- [DevOps自动化运维工具](答案-面试小灶/DevOps自动化运维工具.md) — 142题：DevOps和CI/CD 25 / Prometheus 29 / Zabbix 18 / Jenkins 17 / ELK 30 / Ansible 23
+
 ## 题单-面试小灶
 扒自 mianshixiaozao.com 的刷题清单(仅题目,不含答案),按分类合并:
 - [Linux系统运维](题单-面试小灶/Linux系统运维.md) — Linux 100题/Shell/网络/网站
