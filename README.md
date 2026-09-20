@@ -4,12 +4,12 @@
 
 ## 目录
 
-- [01-Linux](01-Linux/)
+- [01-Linux](01-Linux/) — load average 系统平均负载
 - [02-网络](02-网络/) — TIME_WAIT 与 TCP 连接关闭
 
 ## 进行中 / 待补
 
-- 网络: TCP 三次握手、load average
+- 网络: TCP 三次握手
 - Docker vs 虚拟机、镜像分层
 - K8s、CI/CD、排障思路
 
